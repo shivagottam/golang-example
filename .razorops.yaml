@@ -7,7 +7,7 @@ tasks:
     - commands:
       - |
         sonar-scanner \
-        -Dsonar.projectKey=ruby \
-        -Dsonar.sources=. \
-        -Dsonar.host.url=http://13.233.126.85:9000 \
-        -Dsonar.login=0a6d4c4d4704991b4efebdb329dcedf2c7e75151
+         -Dsonar.projectKey=golang \
+         -Dsonar.sources=. \
+         -Dsonar.host.url=http://13.233.126.85:9000 \
+         -Dsonar.login=b91519483c42f6d5c13be49acdc973b3e7a214dc
